@@ -18,4 +18,4 @@ https://www.kaggle.com/datasnaek/youtube-new
 4. Applying NLP on video descriptions to find most viewed topics and videos
 5. Cross validating our model
 
-![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/YouTube%20Trending%20Video.JPG)
+![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/YouTube_Trending_Video.jpg)
