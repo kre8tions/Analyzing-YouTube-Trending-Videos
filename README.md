@@ -1,4 +1,4 @@
-# Analyzing YouTube Trending Videos
+# Predicting YouTube Trending Videos
 
 ### Project Goal:
 
