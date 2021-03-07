@@ -1,4 +1,4 @@
-# Analyzing-YouTube-Trending-Videos
+# Analyzing YouTube Trending Videos
 
 ### Project Goal:
 
